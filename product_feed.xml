@@ -1,49 +1,1715 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2017-02-05 17:22">
     <shop>
-    <name>BestSeller</name>
-    <company>Tne Best inc.</company>
-    <url>http://best.seller.ru</url>
-    <categories>
-      <category id="2">Смартфоны</category>
-      <category id="201" parentId="1">Apple</category>
-      <category id="202" parentId="1">Xiaomi</category>
-    </categories>
-    <offers>
-      <offer id="iphone12" available="true">
-        <name>Apple iPhone 12</name>
-        <vendor>Apple</vendor>
-        <url>http://best.seller.ru/product_page.asp?pid=12348</url>
-        <price>83990</price>
-        <oldprice>89990</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>201</categoryId>
-        <picture>https://example.com/img/apple_phone.png</picture>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <barcode>0156789012</barcode>
-        <dimensions>8.27/5.31/1.73</dimensions>
-        <weight>135</weight>
-        <param name="Камера">Dual 12MP</param>
-        <param name="ОС">iOS 14</param>
-	  </offer>
-      <offer id="xiaomi12" available="true">
-		<name>Xiaomi 12X</name>
-        <vendor>Xiaomi</vendor>
-        <url>http://best.seller.ru/product_page.asp?pid=12345</url>
-        <price>62990</price>
-        <oldprice>69990</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>202</categoryId>
-        <picture>https://example.com/img/xiaomi_phone.png</picture>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <barcode>0123456789379</barcode>
-        <dimensions>152,7/69,9/8,16</dimensions>
-        <weight>176</weight>
-        <param name="Камера">50MP</param>
-        <param name="ОС">Snapdragon 870</param>
-	  </offer>
-    </offers>
-  </shop>
-</yml_catalog>
+        <name>BestSeller</name>
+        <company>Tne Best inc.</company>
+        <url>http://best.seller.ru</url>
+        <categories>
+            <category id="1">Смартфоны</category>
+            <category id="101" parentId="1">Apple</category>
+            <category id="102" parentId="1">Xiaomi</category>
+        </categories>
+		<offers><offer id="apple_A7761218627373626967" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5646463142635978124" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>sosi</price>
+			<oldprice>ggggg</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7761218627373626967" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2237638464656962611" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2968772553905284782" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5832724117294885567" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A386044336984919201" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2511172163649426298" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A977333370267362144" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5266175545995384563" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7855908838894637333" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2537622487991942419" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8542538693506309925" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6886247688389103555" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5533228185277851507" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5876627764640010072" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A230187321008356409" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A881031744804381164" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3546760507700480552" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8281820120383685011" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9036361968929625258" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5487313741751479643" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3906766380675253005" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7699035093249086551" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6205270069096924367" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3425333034935348109" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1297254973261461309" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4452462579998356766" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6738993626681645444" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1465224397593886425" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A28224147715780700" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1776743728478840187" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A826826685379657276" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4928933388244263527" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5216333472448693815" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6044401434880562646" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3811256094889396008" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3020030989497347570" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5253621912469818204" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5257264809350475497" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1394513527911650138" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2978094801294876764" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6957079033558491553" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A421959789354841720" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A807640399554532664" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9138050831498700350" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A732544244613414524" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A781724841307435204" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2632842620436674421" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9176470794089142948" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2812167013976838972" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9187402746061899772" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2813442208853280248" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4754687521244138342" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6827894827081930747" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4463694649167759408" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2790623595339565582" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8933548308334070025" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8150731242535309140" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5150195086325721124" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6025325743248954403" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A288580926971169152" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3316511274762504246" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A635596748619868133" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3514025721057991368" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7119376526126217323" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2298898727823531485" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6239323133774791018" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6818769024639321424" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5964511381822442015" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8222154182043915544" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1791051458122856682" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1785933270528847635" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2513348787932745436" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6436723432258755270" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A143227648795016940" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8162383942148052368" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4297947895389528999" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7869823736781504938" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1117277896838260766" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8608263560835317015" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2111572251189325588" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9119708204033852859" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A5673727210585556927" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1612686382408190025" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A6481222879847392869" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9070256516843174860" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7040078259146388894" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1376954065468722039" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4572192352867016609" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A91609492787653888" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2018258792838433896" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1102266746303650308" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A3608423121582036293" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A4183646050452053550" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A7093419029996141142" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A1505675605443486646" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A8443989439817826471" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A9146067720045989725" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer><offer id="apple_A2982703625589519090" available="true">
+			<name>Apple iPhone 12</name>
+			<vendor>Apple</vendor>
+			<url>http://best.seller.ru/product_page.asp?pid=12348</url>
+			<price>83990</price>
+			<oldprice>89990</oldprice>
+			<currencyId>RUB</currencyId>
+			<categoryId>101</categoryId>
+			<picture>https://example.com/img/apple_phone.png</picture>
+			<delivery>true</delivery>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<barcode>0156789012</barcode>
+			<dimensions>8.27/5.31/1.73</dimensions>
+			<weight>135</weight>
+			<age>10</age>
+			<param name="Камера">Dual 12MP</param>
+			<param name="ОС">iOS 14</param>
+		    </offer>
+		</offers>
+		</shop>
+	</yml_catalog>
