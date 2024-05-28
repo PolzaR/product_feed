@@ -1,0 +1,41 @@
+<products>
+    <product>
+        <id>1</id>
+        <name>Тестовый товар 1</name>
+        <description>Описание тестового товара 1</description>
+        <categoryId>101</categoryId>
+        <price>1000</price>
+        <currencyId>RUB</currencyId>
+        <url>https://example.com/product/1</url>
+        <picture>https://example.com/images/product1.jpg</picture>
+        <available>in stock</available>
+        <vendor>Тестовый бренд</vendor>
+        <sku>TESTSKU1</sku>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Тестовый товар 2</name>
+        <description>Описание тестового товара 2</description>
+        <categoryId>101</categoryId>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <url>https://example.com/product/2</url>
+        <picture>https://example.com/images/product2.jpg</picture>
+        <available>out of stock</available>
+        <vendor>Тестовый бренд</vendor>
+        <sku>TESTSKU2</sku>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Тестовый товар 3</name>
+        <description>Описание тестового товара 3</description>
+        <categoryId>101</categoryId>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <url>https://example.com/product/3</url>
+        <picture>https://example.com/images/product3.jpg</picture>
+        <available>in stock</available>
+        <vendor>Другой тестовый бренд</vendor>
+        <sku>TESTSKU3</sku>
+    </product>
+</products>
